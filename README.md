@@ -1,4 +1,4 @@
-# Splash-Page-Template
+# About
 
 This is a splash page like gui that I made using Python's PyQT5 Module. I wanted to put this on github for other's wanting to make their GUI's *SPLASH* with a *splash page* loading screen. 
 
